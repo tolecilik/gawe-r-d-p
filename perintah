@@ -1,0 +1,2 @@
+chmod +x ssh-ngrokok.sh
+./ssh-ngrokok.sh
