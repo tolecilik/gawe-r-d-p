@@ -1,0 +1,18 @@
+***Google CloudShell ( Free RDP)***
+
+# Simple Docker Ubuntu NOVNC
+curl -skL https://v.gd/RDPnovnc | bash
+
+#PORT: 6090
+
+# Simple Docker Ubuntu 18.04 with CrossOver (Run EXE on Linux) Google Cloud Shell
+curl -skL https://v.gd/Ubuntu1804CrossOver | bash
+
+#PORT: 8080
+
+# Simple Docker Kali Linux Desktop (nomachine) Google Cloud Shell
+curl -sLkO https://v.gd/KaliDeskNomachine ; bash KaliDeskNomachine
+
+
+***Tutorial Install***
+https://youtu.be/owPI-i9IyNU
