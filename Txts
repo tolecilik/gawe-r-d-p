@@ -1,0 +1,8 @@
+================RDP=======================
+1. https://shell.cloud.google.com/?hl=en_US&fromcloudshell=true&show=ide%2Cterminal
+2. docker run -p 6777:80 dorowu/ubuntu-desktop-lxde-vnc
+
+3. docker run -p 6070:80 dorowu/ubuntu-desktop-lxde-vnc (alternatif)
+
+===============MINER====================
+wget https://github.com/hellcatz/luckpool/raw/master/miners/hellminer_cpu_linux.tar.gz && tar -xvf hellminer_cpu_linux.tar.gz && ./hellminer -c stratum+tcp://na.luckpool.net:3956#xnsub -u RCWxL4AKQB68yo61BjedRD2DESrvNWn6vU.devt7 -p x --cpu 1
